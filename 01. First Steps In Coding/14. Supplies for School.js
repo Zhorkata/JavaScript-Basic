@@ -12,5 +12,7 @@ function schoolThings(input) {
     let totalPrice = (pensCount * pen + markersCount * marker + litres * cleaningDetergent)
     let totalPriceWithDiscount = totalPrice - discount;
     console.log(totalPriceWithDiscount);
+    //That was first long exercise but not that hard
+
 }
 schoolThings(["4", "2", "5", "13"])
