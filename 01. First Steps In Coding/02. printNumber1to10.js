@@ -1,4 +1,5 @@
 function printNumber() {
+    //that was before i realize that there are loops :D
     console.log(1)
     console.log(2)
     console.log(3)
