@@ -4,7 +4,7 @@ function animals(input) {
     switch (type) {
         case "dog":
             console.log("mammal"); break;
-        case "crocodile":
+        case "crocodile"://there is no need break here
         case "tortoise":
         case "snake":
             console.log("reptile"); break;
