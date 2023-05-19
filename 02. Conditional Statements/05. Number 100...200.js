@@ -5,9 +5,9 @@ function number(input) {
         console.log("Less than 100");//100, 99, 98...
     }
     else if (num >= 100, num <= 200) { //101,..., 199
-        console.log("Between 100 and 200")
+        console.log("Between 100 and 200");
     } else {
-        console.log("Greater than 200")
+        console.log("Greater than 200");//201, 202...
     }
 }
 number(["2323"])
