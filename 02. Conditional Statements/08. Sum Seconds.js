@@ -5,7 +5,7 @@ function sumSeconds(input) {
 
     let totalTime = time1 + time2 + time3;
 
-    let min = Math.floor(totalTime / 60);
+    let min = Math.floor(totalTime / 60);//this method removes the decimal point and rounds to the smaller number
     let sec = totalTime % 60;
 
     if (sec < 10) {
