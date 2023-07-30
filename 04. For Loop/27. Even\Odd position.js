@@ -1,3 +1,5 @@
+// !!!NOT FINISHED!!!
+
 function evenOdd(input){
 let nums = Number(input[0]);
 
