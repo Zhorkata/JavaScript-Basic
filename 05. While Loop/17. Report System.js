@@ -1,3 +1,4 @@
+// !!!NOT FINISHED!!!
 function system(input) {
     let index = 0;
     let expectedAmount = input[index];
