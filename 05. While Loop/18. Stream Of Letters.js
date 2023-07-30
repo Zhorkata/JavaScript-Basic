@@ -1,3 +1,5 @@
+// !!!NOT FINISHED!!!
+
 function stream(input) {
     let index = 0;
     let letter = input[index];
