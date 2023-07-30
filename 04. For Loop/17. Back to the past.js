@@ -1,3 +1,4 @@
+// !!!NOT FINISHED!!!
 function past(input){
     let money = Number(input[0]);
     let years = Number(input[1]);
