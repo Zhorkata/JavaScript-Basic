@@ -1,3 +1,5 @@
+// !!!!!!!NOT FINISH!!!!!
+
 function tickets(input) {
     let index = 0;
 
