@@ -1,3 +1,5 @@
+// !!!NOT FINISHED!!!
+
 function hospital(input) {
     let days = Number(input[0]);
 
