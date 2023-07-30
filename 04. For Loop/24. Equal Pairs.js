@@ -1,3 +1,5 @@
+// !!!NOT FINISHED!!!
+
 function equalPairs(input) {
     let doubleNums = Number(input[0]);
 
