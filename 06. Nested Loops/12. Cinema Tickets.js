@@ -1,4 +1,4 @@
-// !!!!!!!NOT FINISH!!!!!
+// !!!!!!!NOT FINISHED!!!!!
 
 function tickets(input) {
     let index = 0;
