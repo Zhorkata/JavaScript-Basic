@@ -1,6 +1,6 @@
 # JavaScript-Basic
 
-Welcome to the "Programming Basics with JavaScript" repository! This comprehensive course is designed to provide you with a solid understanding of fundamental programming concepts using JavaScript. Whether you are an aspiring developer taking your first steps into the coding world or an experienced programmer seeking to reinforce your skills, this repository offers the perfect learning platform.
+Welcome to the "JavaScript Basics" repository! This comprehensive course is designed to provide you with a solid understanding of fundamental programming concepts using JavaScript. Whether you are an aspiring developer taking your first steps into the coding world or an experienced programmer seeking to reinforce your skills, this repository offers the perfect learning platform.
 
 ## Skills I acquired during the course:
 1) Working with the console (data input and output)
