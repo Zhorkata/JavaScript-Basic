@@ -4,13 +4,13 @@ Welcome to the "JavaScript Basics" repository! This comprehensive course is desi
 
 ## Skills I acquired during the course:
 1) Working with the console (data input and output)
-2) Working with loops (for)
+2) Working with loops (for, while)
 3) Working with more complex logical checks
 4) Working with logical checks (if-else)
 5) Performing simple calculations
 6) Working with more complex loops (nested for loops and while)
 
-## Here you can see the tasks I completed in the period January - February 2023. 
+### Here you can see the tasks I completed in the period January - February 2023. 
 
-## Certificate from Softuni for successfully passing the exam: https://softuni.bg/certificates/details/160086/41d4014c
+## Certificate from Softuni for successfully passing the exam with grade 6.00 / (A+): https://softuni.bg/certificates/details/160086/41d4014c
 
